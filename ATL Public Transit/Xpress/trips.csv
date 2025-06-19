@@ -1,0 +1,198 @@
+trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+155020,400,1,"400 Cumming",,0,1672202,shp-400-02,1,0
+171020,400,1,"400 Cumming",,0,1670102,shp-400-02,1,0
+10020,400,1,"400 Downtown",,1,1669002,shp-400-01,1,0
+168020,400,1,"400 Downtown",,1,1668902,shp-400-01,1,0
+178020,401,1,"401 Cumming",,0,1670202,shp-401-03,1,0
+36020,401,1,"401 Cumming",,0,1672702,shp-401-03,1,0
+53020,401,1,"401 Perimeter Center",,1,1669402,shp-401-02,1,0
+95020,401,1,"401 Perimeter Center",,1,1669402,shp-401-02,1,0
+21020,410,1,"410 Lindbergh Center Station",,1,1670502,shp-410-05,1,0
+33020,410,1,"410 Lindbergh Center Station",,1,1672102,shp-410-05,1,0
+115020,410,1,"410 Sugarloaf Mills",,0,1671702,shp-410-54,1,0
+188020,410,1,"410 Sugarloaf Mills",,0,1670702,shp-410-54,1,0
+3020,411,1,"411 Hamilton Mill / Mall of Georgia",,0,1671002,shp-411-04,1,0
+32020,411,1,"411 Hamilton Mill / Mall of Georgia",,0,1670802,shp-411-04,1,0
+181020,411,1,"411 Hamilton Mill / Mall of Georgia",,0,1669602,shp-411-04,1,0
+69020,411,1,"411 Hamilton Mill / Mall of Georgia",,0,1672302,shp-411-04,1,0
+34020,411,1,"411 Midtown",,1,1668002,shp-411-03,1,0
+78020,411,1,"411 Midtown",,1,1668102,shp-411-03,1,0
+85020,411,1,"411 Midtown",,1,1668202,shp-411-03,1,0
+123020,411,1,"411 Midtown",,1,1668002,shp-411-03,1,0
+174020,412,1,"412 Midtown",,1,1668902,shp-412-05,1,0
+91020,412,1,"412 Midtown",,1,1670002,shp-412-05,1,0
+141020,412,1,"412 Midtown",,1,1668302,shp-412-05,1,0
+117020,412,1,"412 Sugarloaf Mills",,0,1671102,shp-412-54,1,0
+92020,412,1,"412 Sugarloaf Mills",,0,1669602,shp-412-54,1,0
+52020,412,1,"412 Sugarloaf Mills",,0,1669702,shp-412-54,1,0
+18020,413,1,"413 Downtown",,1,1668802,shp-413-03,1,0
+27020,413,1,"413 Downtown",,1,1669102,shp-413-03,1,0
+132020,413,1,"413 Downtown",,1,1669302,shp-413-03,1,0
+161020,413,1,"413 Hamilton Mill / Mall of Georgia",,0,1670402,shp-413-04,1,0
+17020,413,1,"413 Hamilton Mill / Mall of Georgia",,0,1671702,shp-413-04,1,0
+76020,413,1,"413 Hamilton Mill / Mall of Georgia",,0,1670702,shp-413-04,1,0
+105020,414,1,"414 Hamilton Mill / Mall of Georgia / Sugarloaf Mi",,0,1669802,shp-414-54,1,0
+128020,414,1,"414 Hamilton Mill / Mall of Georgia / Sugarloaf Mi",,0,1669802,shp-414-54,1,0
+114020,414,1,"414 Hamilton Mill / Mall of Georgia / Sugarloaf Mi",,0,1668602,shp-414-54,1,0
+166020,414,1,"414 Midtown",,1,1668802,shp-414-05,1,0
+86020,414,1,"414 Midtown",,1,1670502,shp-414-05,1,0
+54020,416,1,"416 Dacula",,0,1671202,shp-416-03,1,0
+43020,416,1,"416 Dacula",,0,1671202,shp-416-03,1,0
+65020,416,1,"416 Dacula",,0,1669502,shp-416-03,1,0
+183020,416,1,"416 Downtown",,1,1669102,shp-416-01,1,0
+153020,416,1,"416 Downtown",,1,1670902,shp-416-01,1,0
+72020,416,1,"416 Downtown",,1,1669202,shp-416-01,1,0
+170020,417,1,"417 Perimeter Center",,1,1671402,shp-417-04,1,0
+68020,417,1,"417 Perimeter Center",,1,1671302,shp-417-04,1,0
+140020,417,1,"417 Sugarloaf Mills",,0,1670602,shp-417-53,1,0
+97020,417,1,"417 Sugarloaf Mills",,0,1672602,shp-417-53,1,0
+189020,419,1,"419 Downtown",,1,1672502,shp-419-02,1,0
+50020,419,1,"419 Downtown",,1,1671602,shp-419-02,1,0
+71020,419,1,"419 Downtown",,1,1671902,shp-419-02,1,0
+107020,419,1,"419 Downtown",,1,1672002,shp-419-02,1,0
+144020,419,1,"419 Downtown",,1,1670002,shp-419-02,1,0
+83020,419,1,"419 Downtown",,1,1671802,shp-419-02,1,0
+88020,419,1,"419 Downtown",,1,1672502,shp-419-02,1,0
+87020,419,1,"419 Snellville / Hewatt RD / Stone Mountain",,0,1670302,shp-419-04,1,0
+84020,419,1,"419 Snellville / Hewatt RD / Stone Mountain",,0,1668402,shp-419-04,1,0
+9020,419,1,"419 Snellville / Hewatt RD / Stone Mountain",,0,1668602,shp-419-04,1,0
+179020,419,1,"419 Snellville / Hewatt RD / Stone Mountain",,0,1671502,shp-419-04,1,0
+177020,419,1,"419 Snellville / Hewatt RD / Stone Mountain",,0,1672602,shp-419-04,1,0
+64020,419,1,"419 Snellville / Hewatt RD / Stone Mountain",,0,1669902,shp-419-04,1,0
+125020,419,1,"419 Snellville / Hewatt RD / Stone Mountain",,0,1668702,shp-419-04,1,0
+147020,423,1,"423 Midtown",,1,1673102,shp-423-04,1,0
+89020,423,1,"423 Midtown",,1,1672802,shp-423-04,1,0
+26020,423,1,"423 Midtown",,1,1673202,shp-423-04,1,0
+129020,423,1,"423 Midtown",,1,1672902,shp-423-04,1,0
+165020,423,1,"423 Midtown",,1,1672802,shp-423-04,1,0
+131020,423,1,"423 Midtown",,1,1673002,shp-423-04,1,0
+172020,423,1,"423 Panola RD / West Conyers / East Conyers",,0,1673502,shp-423-07,1,0
+191020,423,1,"423 Panola RD / West Conyers / East Conyers",,0,1681602,shp-423-07,1,0
+102020,423,1,"423 Panola RD / West Conyers / East Conyers",,0,1673702,shp-423-07,1,0
+46020,423,1,"423 Panola RD / West Conyers / East Conyers",,0,1673302,shp-423-07,1,0
+176020,423,1,"423 Panola RD / West Conyers / East Conyers",,0,1673602,shp-423-07,1,0
+138020,423,1,"423 Panola RD / West Conyers / East Conyers",,0,1673402,shp-423-07,1,0
+57020,426,1,"426 Downtown",,1,1681202,shp-426-22,1,0
+93020,426,1,"426 Downtown",,1,1681202,shp-426-23,1,0
+116020,426,1,"426 Downtown",,1,1681002,shp-426-22,1,0
+106020,426,1,"426 Downtown",,1,1681002,shp-426-23,1,0
+62020,426,1,"426 Downtown",,1,1674202,shp-426-24,1,0
+120020,426,1,"426 Downtown",,1,1673802,shp-426-20,1,0
+11020,426,1,"426 Downtown",,1,1674102,shp-426-20,1,0
+25020,426,1,"426 Downtown",,1,1674002,shp-426-24,1,0
+167020,426,1,"426 Downtown",,1,1673902,shp-426-21,1,0
+94020,426,1,"426 Downtown",,1,1673802,shp-426-23,1,0
+113020,426,1,"426 Panola RD / West Conyers / East Conyers",,0,1674302,shp-426-54,1,0
+47020,426,1,"426 Panola RD / West Conyers / East Conyers",,0,1682202,shp-426-54,1,0
+173020,426,1,"426 Panola RD / West Conyers / East Conyers",,0,1681502,shp-426-54,1,0
+169020,426,1,"426 Panola RD / West Conyers / East Conyers",,0,1674502,shp-426-54,1,0
+55020,426,1,"426 Panola RD / West Conyers / East Conyers",,0,1674602,shp-426-54,1,0
+133020,426,1,"426 Panola RD / West Conyers / East Conyers",,0,1681502,shp-426-54,1,0
+175020,426,1,"426 Panola RD / West Conyers / East Conyers",,0,1682202,shp-426-54,1,0
+30020,426,1,"426 Panola RD / West Conyers / East Conyers",,0,1674402,shp-426-54,1,0
+75020,426,1,"426 Panola RD / West Conyers / East Conyers",,0,1674302,shp-426-54,1,0
+28020,428,1,"428 Panola / West Conyers",,0,1668502,shp-428-05,1,0
+124020,428,1,"428 Panola / West Conyers",,0,1670202,shp-428-05,1,0
+193020,428,1,"428 Perimeter Center",,1,1672402,shp-428-06,1,0
+152020,428,1,"428 Perimeter Center",,1,1672102,shp-428-06,1,0
+187020,430,1,"430 Downtown",,1,1674702,shp-430-04,1,0
+122020,430,1,"430 Downtown",,1,1674902,shp-430-04,1,0
+79020,430,1,"430 Downtown",,1,1675002,shp-430-04,1,0
+24020,430,1,"430 Downtown",,1,1674702,shp-430-04,1,0
+56020,430,1,"430 Downtown",,1,1674802,shp-430-04,1,0
+70020,430,1,"430 McDonough",,0,1675202,shp-430-03,1,0
+48020,430,1,"430 McDonough",,0,1675402,shp-430-03,1,0
+44020,430,1,"430 McDonough",,0,1675102,shp-430-03,1,0
+6020,430,1,"430 McDonough",,0,1675102,shp-430-03,1,0
+96020,430,1,"430 McDonough",,0,1675202,shp-430-03,1,0
+157020,430,1,"430 McDonough",,0,1675302,shp-430-03,1,0
+158020,431,1,"431 Midtown",,1,1675502,shp-431-03,1,0
+5020,431,1,"431 Midtown",,1,1675502,shp-431-03,1,0
+29020,431,1,"431 Midtown",,1,1675602,shp-431-03,1,0
+192020,431,1,"431 Midtown",,1,1675702,shp-431-03,1,0
+74020,431,1,"431 Stockbridge / BrandsMart",,0,1675802,shp-431-05,1,0
+194020,431,1,"431 Stockbridge / BrandsMart",,0,1676002,shp-431-05,1,0
+22020,431,1,"431 Stockbridge / BrandsMart",,0,1675802,shp-431-05,1,0
+143020,431,1,"431 Stockbridge / BrandsMart",,0,1675902,shp-431-05,1,0
+162020,432,1,"432 Downtown",,1,1676102,shp-432-04,1,0
+137020,432,1,"432 Downtown",,1,1681402,shp-432-04,1,0
+163020,432,1,"432 Downtown",,1,1681102,shp-432-04,1,0
+149020,432,1,"432 Downtown",,1,1681402,shp-432-04,1,0
+119020,432,1,"432 Downtown",,1,1681102,shp-432-04,1,0
+154020,432,1,"432 Stockbridge / BrandsMart",,0,1676302,shp-432-53,1,0
+14020,432,1,"432 Stockbridge / BrandsMart",,0,1676202,shp-432-53,1,0
+23020,432,1,"432 Stockbridge / BrandsMart",,0,1676202,shp-432-53,1,0
+156020,432,1,"432 Stockbridge / BrandsMart",,0,1676402,shp-432-53,1,0
+73020,432,1,"432 Stockbridge / BrandsMart",,0,1678602,shp-432-53,1,0
+103020,440,1,"440 Downtown / Midtown",,1,1679902,shp-440-05,1,0
+80020,440,1,"440 Downtown / Midtown",,1,1676502,shp-440-05,1,0
+31020,440,1,"440 Downtown / Midtown",,1,1676502,shp-440-05,1,0
+40020,440,1,"440 Downtown / Midtown",,1,1676602,shp-440-05,1,0
+39020,440,1,"440 Hampton / Jonesboro",,0,1681302,shp-440-07,1,0
+16020,440,1,"440 Hampton / Jonesboro",,0,1676802,shp-440-07,1,0
+142020,440,1,"440 Hampton / Jonesboro",,0,1676702,shp-440-07,1,0
+148020,440,1,"440 Hampton / Jonesboro",,0,1676702,shp-440-07,1,0
+19020,441,1,"441 Downtown / Midtown",,1,1681702,shp-441-04,1,0
+110020,441,1,"441 Downtown / Midtown",,1,1676902,shp-441-04,1,0
+134020,441,1,"441 Downtown / Midtown",,1,1677002,shp-441-04,1,0
+136020,441,1,"441 Jonesboro",,0,1677102,shp-441-05,1,0
+112020,441,1,"441 Jonesboro",,0,1677102,shp-441-05,1,0
+164020,441,1,"441 Jonesboro",,0,1677202,shp-441-05,1,0
+41020,442,1,"442 Riverdale",,0,1676302,shp-442-04,1,0
+146020,442,1,"442 Riverdale",,0,1681302,shp-442-04,1,0
+104020,442,1,"Downtown",,1,1677302,shp-442-05,1,0
+139020,442,1,"Downtown",,1,1677302,shp-442-05,1,0
+38020,453,1,"453 Downtown / Midtown",,1,1677602,shp-453-03,1,0
+15020,453,1,"453 Downtown / Midtown",,1,1677502,shp-453-03,1,0
+1020,453,1,"453 Downtown / Midtown",,1,1677702,shp-453-03,1,0
+184020,453,1,"453 Downtown / Midtown",,1,1677402,shp-453-03,1,0
+13020,453,1,"453 Newnan / Union City",,0,1681602,shp-453-05,1,0
+12020,453,1,"453 Newnan / Union City",,0,1678002,shp-453-05,1,0
+90020,453,1,"453 Newnan / Union City",,0,1677802,shp-453-05,1,0
+185020,453,1,"453 Newnan / Union City",,0,1677902,shp-453-05,1,0
+150020,463,1,"463 Downtown / Midtown",,1,1678202,shp-463-02,1,0
+63020,463,1,"463 Downtown / Midtown",,1,1680002,shp-463-02,1,0
+180020,463,1,"463 Downtown / Midtown",,1,1678102,shp-463-02,1,0
+182020,463,1,"463 Downtown / Midtown",,1,1678102,shp-463-02,1,0
+118020,463,1,"463 Downtown / Midtown",,1,1678302,shp-463-02,1,0
+37020,463,1,"463 Downtown / Midtown",,1,1678402,shp-463-02,1,0
+2020,463,1,"463 Downtown / Midtown",,1,1678502,shp-463-02,1,0
+61020,463,1,"463 West Douglas / Douglas MMTC",,0,1679002,shp-463-05,1,0
+121020,463,1,"463 West Douglas / Douglas MMTC",,0,1678702,shp-463-05,1,0
+100020,463,1,"463 West Douglas / Douglas MMTC",,0,1679502,shp-463-05,1,0
+197020,463,1,"463 West Douglas / Douglas MMTC",,0,1679102,shp-463-05,1,0
+51020,463,1,"463 West Douglas / Douglas MMTC",,0,1678902,shp-463-05,1,0
+67020,463,1,"463 West Douglas / Douglas MMTC",,0,1678602,shp-463-05,1,0
+49020,463,1,"463 West Douglas / Douglas MMTC",,0,1678802,shp-463-05,1,0
+126020,476,1,"476 Downtown / Midtown",,1,1667002,shp-476-03,1,0
+20020,476,1,"476 Downtown / Midtown",,1,1666802,shp-476-03,1,0
+101020,476,1,"476 Downtown / Midtown",,1,1666902,shp-476-03,1,0
+42020,476,1,"476 Downtown / Midtown",,1,1666702,shp-476-03,1,0
+127020,476,1,"476 Hiram / Powder Springs",,0,1667702,shp-476-05,1,0
+135020,476,1,"476 Hiram / Powder Springs",,0,1667402,shp-476-05,1,0
+66020,476,1,"476 Hiram / Powder Springs",,0,1667502,shp-476-05,1,0
+196020,476,1,"476 Hiram / Powder Springs",,0,1667302,shp-476-05,1,0
+98020,480,1,"480 Acworth / Town Center",,0,1667802,shp-480-06,1,0
+4020,480,1,"480 Acworth / Town Center",,0,1667602,shp-480-06,1,0
+8020,480,1,"480 Acworth / Town Center",,0,1667902,shp-480-06,1,0
+190020,480,1,"480 Downtown",,1,1667202,shp-480-03,1,0
+35020,480,1,"480 Downtown",,1,1667102,shp-480-03,1,0
+111020,480,1,"480 Downtown",,1,1667202,shp-480-03,1,0
+186020,483,1,"483 Midtown",,1,1679402,shp-483-03,1,0
+145020,483,1,"483 Midtown",,1,1679202,shp-483-03,1,0
+99020,483,1,"483 Midtown",,1,1679302,shp-483-03,1,0
+108020,483,1,"483 Woodstock / Town Center",,0,1679702,shp-483-06,1,0
+58020,483,1,"483 Woodstock / Town Center",,0,1679602,shp-483-06,1,0
+59020,483,1,"483 Woodstock / Town Center",,0,1679502,shp-483-06,1,0
+82020,484,1,"484 Hickory Grove",,0,1681802,shp-484-02,1,0
+109020,484,1,"484 Hickory Grove",,0,1682102,shp-484-02,1,0
+195020,484,1,"484 Midtown",,1,1674002,shp-484-01,1,0
+151020,484,1,"484 Midtown",,1,1679802,shp-484-01,1,0
+60020,485,1,"485 Downtown",,1,1676902,shp-485-01,1,0
+159020,485,1,"485 Downtown",,1,1679902,shp-485-01,1,0
+77020,485,1,"485 Hickory Grove",,0,1682002,shp-485-02,1,0
+45020,485,1,"485 Hickory Grove",,0,1681902,shp-485-02,1,0
+160020,490,1,"490 Downtown",,1,1680002,shp-490-01,1,0
+130020,490,1,"490 Downtown",,1,1680102,shp-490-01,1,0
+81020,490,1,"490 Woodstock",,0,1680302,shp-490-08,1,0
+7020,490,1,"490 Woodstock",,0,1680202,shp-490-08,1,0
