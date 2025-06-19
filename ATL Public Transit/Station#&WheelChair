@@ -1,0 +1,25 @@
+import pandas as pd
+
+df = pd.read_csv('stops.csv')
+
+
+df['stop_name_20'] = df['stop_name'].str[:20]
+counts = df['stop_name_20'].value_counts().reset_index()
+counts.columns = ['stop_name_first_20', 'count']
+counts = counts.reset_index(drop=True)
+counts.index += 1
+counts.reset_index(inplace=True)
+counts.columns = ['row_number', 'stop_name_first_20', 'count']
+
+
+
+
+# 0 = NOT accessible, 1 = accessible
+n_accessible = (df['wheelchair_boarding'] == 1).sum()
+n_not_accessible = (df['wheelchair_boarding'] == 0).sum()
+
+print(f"\nNumber of wheelchair accessible stops (1): {n_accessible}")
+print(f"Number of NOT wheelchair accessible stops (0): {n_not_accessible}")
+
+
+counts.to_csv('stop_name_20char_counts.csv', index=False)
